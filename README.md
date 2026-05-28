@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Churn Model MLOps Demo
 
 A simple demonstration of MLOps practices for a customer churn prediction model.
@@ -262,3 +263,6 @@ Response:
 - Replace `your-org` with your GitHub organization
 - Replace `my-bucket` with your S3 bucket name
 - This is a minimal demo - production setups require monitoring, logging, and security hardening
+=======
+# my-first-project
+>>>>>>> 2a999a027f4d7401bc15751e0ff7c933c7cb1383
